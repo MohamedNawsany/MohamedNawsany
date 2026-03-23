@@ -10,7 +10,7 @@
 <li>🏛️ I’m a Computer & Communication Engineering student at Alexandria National University</li>
 <li>❤️ I enjoy working with JavaScript | React | Next.js | TypeScript | SQL</li>
 <li>👨‍💻 I’m currently building an e-commerce platform for local brands</li>
-<li>📫 How to reach me: dnawasany@gmail.com</li>
+<<li>📫 How to reach me: <a href="mailto:dnawasany@gmail.com">dnawasany@gmail.com</a></li>
 <li>⚡ Fun fact: I won 1st place in a programming competition and I’m always pushing myself to learn more</li>
 </ul>
 <hr align="center" width="100%" style="border:1px solid #ddd;">
